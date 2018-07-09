@@ -1,12 +1,10 @@
 # Financial Engineering
 
-## 1. Investment Banking
+## 1. Investment Banking and Brokerage (FRE-6111)
 ### valuation of JD.com
 
-## 2. Stochastic Calculus
+## 2. Algorithmic Trading and High Frequency Finance (FRE-7251)
 
-## 3. Portfolio Management
+## 3. Stochastic Calculus
 
-## 4. Algorithm Trading
-
-## 5. High Frequency Finance
+## 4. Portfolio Management
